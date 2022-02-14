@@ -1,0 +1,2 @@
+rootProject.name = "sparks_login_app"
+include ':app'
